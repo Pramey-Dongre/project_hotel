@@ -1,0 +1,9 @@
+
+			Welcome to XXX Hotel!!!!!!
+Poha..--Rs.30
+Upma..--Rs.45
+Paneer Tikka..--Rs.150
+Total = 225.000000
+GST(9per.) = 20.250000
+Grand Total=245.250000
+22:25:32 Oct  1 2019
